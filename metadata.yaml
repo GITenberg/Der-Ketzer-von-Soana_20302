@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3226
     wikipedia: http://en.wikipedia.org/wiki/Gerhart_Hauptmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20302#Der-Ketzer-von-Soana
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2007-01-07'
 gutenberg_type: Text
